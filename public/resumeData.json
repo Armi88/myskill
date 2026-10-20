@@ -1,26 +1,26 @@
 {
     "main": {
-        "name" : "Mutia Rahmatun Husna",
+        "name" : "Varian Armi Eka Saputro",
         "description": "I am a programmer",
         "image":"profilepic.jpg",
-        "github":"https://github.com/mutiarahmatun",
-        "project":"https://github.com/mutiarahmatun",
+        "github":"https://github.com/arianarmieka",
+        "project":"https://github.com/arianarmieka",
         "bio": "Ini adalah section biografi aku",
         "contactmessage":"Hello, here I am",
-        "email": "myemail@gmail.com",
-        "phone": "877-1234-5678",
+        "email": "varianarmi78@gmail.com",
+        "phone": "082190215227",
         "address":{
             "street":"Jl Margonda Raya",
             "city":"Depok",
             "state":"West Java",
             "zip": "16024"
         },
-        "website": "https://github.com/mutiarahmatun",
-        "resumedownload":"https://github.com/mutiarahmatun",
+        "website": "https://github.com/Armi88",
+        "resumedownload":"https://github.com/Armi88",
         "social":[
           {
             "name": "facebook",
-            "url": "https://github.com/mutiarahmatun",
+            "url": "https://github.com/Armi88",
             "className": "fa fa-facebook"
           },
           {
@@ -30,17 +30,17 @@
           },
           {
             "name":"linkedin",
-            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "url":"https://www.linkedin.com/in/varian-armi-eka-saputro-b3b827243/",
             "className":"fa fa-linkedin"
           },
           {
             "name":"instagram",
-            "url":"http://instagram.com/mutia.rahmatun",
+            "url":"http://instagram.com/armi.saputro",
             "className":"fa fa-instagram"
           },
           {
             "name":"github",
-            "url":"https://github.com/mutiarahmatun",
+            "url":"https://github.com/Armi88",
             "className":"fa fa-github"
           }
         ]
@@ -49,29 +49,17 @@
         "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
         "education" : [
             {
-                "school": "Universitas Indonesia",
-                "degree": "Bachelor degree of Computer Science",
-                "graduated": "June 2021",
-                "description" : "I am joining gemastik competition"
-            },
-            {
-                "school": "SMA 39 Jakarta",
-                "degree": "Science",
-                "graduated": "May 2017",
-                "description": "I am joining computer olympiad"
+                "school": "Universitas Gunadarma",
+                "degree": "Bachelor degree of information Systems",
+                "graduated": "Agu 2026"
             }
         ],
         "work": [
             {
-                "company" : "PT. Linimuda",
-                "title" : "Software Engineer",
-                "years": "April 2020 - February 2022",
-                "description": "Creating a website and maintenance"
-            }, {
-                "company": "My Skill Id",
-                "title": "Frontend Engineer",
-                "years": "February 2022 - present",
-                "description": "Creating a mobile application"
+                "company" : "PT. Angkasapura Indonesia",
+                "title" : "web development intern",
+                "years": "Sep 2025 - Nov 2025",
+                "description": "membuat website TONELLA"
             }
         ],
         "skills": [
